@@ -33,7 +33,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80ae4c5e-6ce1-40b3-ade5-cb97ab43c292" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600668658521</updated>
-      <workItem from="1600668659657" duration="1276000" />
+      <workItem from="1600668659657" duration="1478000" />
     </task>
     <servers />
   </component>
@@ -101,5 +100,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="857" height="167" key="GridCell.Tab.0.bottom" timestamp="1600670203810">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="857" height="167" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1600670203810" />
+    <state width="857" height="167" key="GridCell.Tab.0.center" timestamp="1600670203809">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="857" height="167" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1600670203809" />
+    <state width="857" height="167" key="GridCell.Tab.0.left" timestamp="1600670203809">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="857" height="167" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1600670203809" />
+    <state width="857" height="167" key="GridCell.Tab.0.right" timestamp="1600670203809">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state width="857" height="167" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1600670203809" />
   </component>
 </project>
