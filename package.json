@@ -15,7 +15,7 @@
     "url": "git+https://github.com/janinedaniellesantos/first-web-app.git"
   },
   "keywords": [
-    "nodejs"
+    "nodejs",
     "heroku"
   ],
   "author": "Janine",
